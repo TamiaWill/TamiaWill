@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tamia Williams</h1>
 <h3 align="center">A passionate Creative from Trinidad</h3>
 
-- 🌱 I’m currently learning **Graphic Design**
+- 🌱 I’m currently learning **Graphic Design** , **UX/UI**, **AI**
 
 - 📫 How to reach me **tamiaawillie@gmail.com**
 
